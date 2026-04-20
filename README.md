@@ -1,20 +1,25 @@
 # Task 2 - Phishing Email Detection & Awareness System
 
-**Prepared by:** Hajira Hajistha  
 **Date:** 18 April 2026  
-**Internship:** Cyber Security Intern at Future Interns
-
-## Summary
-This report analyzes three common phishing email examples (fake PayPal, fake Netflix, fake FedEx). It identifies red flags such as urgency, fake links, generic greetings, and spoofed senders. The report also provides prevention guidelines and a quick reference for employees.
+**Prepared by:** Hajira Hajistha  
 
 ## Tools Used
-- Manual email analysis (no special software required)
-- Google Docs for report writing
+- Manual email inspection (no automated tools)
+- Google Docs (report writing)
+
+## Analysis Approach
+1. Collected 3 real-world phishing email examples (fake PayPal, Netflix, FedEx).
+2. For each email, examined:
+   - Sender address (spoofed or mismatched)
+   - Subject line for urgency or fear tactics
+   - Links (hover to reveal fake domains)
+   - Greeting (generic instead of personalized)
+   - Grammar and spelling errors
+3. Classified each email as "Phishing (High Risk)" based on the presence of multiple red flags.
+4. Documented how the attack works and recommended fixes.
+
+## Summary
+This report identifies common phishing indicators and provides prevention guidelines for employees.
 
 ## Files Included
 - `FUTURE_CS_02.pdf` – Final report
-
-## Key Takeaways
-- Phishing attacks rely on fear and urgency.
-- Always hover over links before clicking.
-- Report suspicious emails to IT immediately.
